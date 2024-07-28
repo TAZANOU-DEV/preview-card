@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(83, 50, 113);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.preview{
+    height: 500px;
+    width: 300px;
+    margin: 30Px;
+    padding: 30px;
+    background-color:   hsl(216, 50%, 16%);
+    border-radius: 20px;
+}
+.diamond{
+    height: 250px;
+    width: 300px;
+    border-radius: 20px;
+
+}
+h2{
+    color: white;
+    margin-top: 10px;
+
+
+}
+p{
+    color: rgba(255, 255, 255, 0.334);
+    margin-top: 10px;
+}
+.eth{
+    margin-top: 15px;
+    margin-right: 8px;
+    color:  hsl(178, 100%, 50%);
+}
+hr{
+    margin-top: 18px;
+}
+.value{
+    margin-right: 108px;
+    color:  hsl(178, 100%, 50%);
+    font-weight: bold;
+}
+.clock{
+    margin-right: 8px;
+}
+.days{
+    color :hsl(215, 51%, 70%);
+    font-weight: bold;
+    
+    
+}
+.avatar{
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+}
+.gh{
+    display: flex;
+    align-items: center;
+
+}
+.light{
+    margin-top: 30px;
+    margin-left: 4px;
+    color: rgba(255, 255, 255, 0.507);
+}
+.bold{
+    margin-top: 30px;
+    margin-left: 6px;
+    color: white;
+    font-weight: bolder;
+
+}
